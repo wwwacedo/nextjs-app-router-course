@@ -9,3 +9,10 @@ For more information, see the [course curriculum](https://nextjs.org/learn) on t
 	```bash
 	pnpm i @vercel/postgres
 	```
+
+- Chapter 11
+1. Install use-debounce:
+	```bash
+	pnpm i use-debounce
+	```
+
