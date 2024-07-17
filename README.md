@@ -15,4 +15,9 @@ For more information, see the [course curriculum](https://nextjs.org/learn) on t
 	```bash
 	pnpm i use-debounce
 	```
+	---
+	
+	*You don't want to fetch data on the client as this would expose your database secrets (remember, you're not using an API layer)*
+	
+	---
 
