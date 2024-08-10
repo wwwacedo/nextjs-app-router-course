@@ -21,3 +21,15 @@ For more information, see the [course curriculum](https://nextjs.org/learn) on t
 	
 	---
 
+- Chapter 15
+1. Install NextAuth.js by running the following command in your terminal:
+	```bash
+	pnpm i next-auth@beta
+	```
+	Here, you're installing the beta version of NextAuth.js, which is compatible with Next.js 14.
+
+2. Next, generate a secret key for your application. This key is used to encrypt cookies, ensuring the security of user sessions. You can do this by running the following command in your terminal:
+
+	```bash
+	openssl rand -base64 32
+	```
