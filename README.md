@@ -33,3 +33,5 @@ For more information, see the [course curriculum](https://nextjs.org/learn) on t
 	```bash
 	openssl rand -base64 32
 	```
+
+For more: [Adding Authentication](https://nextjs.org/learn/dashboard-app/adding-authentication)
